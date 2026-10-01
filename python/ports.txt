@@ -1,0 +1,18 @@
+# puertos comunes (uno por linea, '#' para comentarios)
+20
+21
+22
+23
+25
+53
+80
+110
+143
+443
+445
+3306
+3389
+5432
+8080
+8443
+27017
